@@ -54,3 +54,4 @@ nunit-*.xml
 dlldata.c
 
 # Benchmark Results
+BenchmarkDotNet.Artifacts/
