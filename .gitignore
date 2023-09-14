@@ -63,3 +63,5 @@ artifacts/
 
 # StyleCop
 StyleCopReport.xml
+
+# Files built by Visual Studio
