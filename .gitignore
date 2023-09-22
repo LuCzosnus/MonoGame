@@ -72,3 +72,4 @@ StyleCopReport.xml
 *.meta
 *.obj
 *.iobj
+*.pch
