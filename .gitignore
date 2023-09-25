@@ -75,3 +75,4 @@ StyleCopReport.xml
 *.pch
 *.pdb
 *.ipdb
+*.pgc
