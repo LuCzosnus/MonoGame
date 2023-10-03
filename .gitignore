@@ -83,3 +83,4 @@ StyleCopReport.xml
 *.tli
 *.tlh
 *.tmp
+*.tmp_proj
