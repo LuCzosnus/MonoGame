@@ -90,3 +90,4 @@ StyleCopReport.xml
 *.vssscc
 .builds
 *.pidb
+*.svclog
