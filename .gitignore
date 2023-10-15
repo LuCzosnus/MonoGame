@@ -94,3 +94,4 @@ StyleCopReport.xml
 *.scc
 
 # Chutzpah Test files
+_Chutzpah*
