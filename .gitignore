@@ -103,3 +103,4 @@ ipch/
 *.opendb
 *.opensdf
 *.sdf
+*.cachefile
