@@ -114,3 +114,4 @@ ipch/
 *.sap
 
 # Visual Studio Trace Files
+*.e2e
