@@ -120,3 +120,4 @@ ipch/
 $tf/
 
 # Guidance Automation Toolkit
+*.gpState
