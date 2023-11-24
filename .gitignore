@@ -142,3 +142,4 @@ _TeamCity*
 *.coveragexml
 
 # NCrunch
+_NCrunch_*
