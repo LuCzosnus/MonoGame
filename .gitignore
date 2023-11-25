@@ -143,3 +143,4 @@ _TeamCity*
 
 # NCrunch
 _NCrunch_*
+.*crunch*.local.xml
